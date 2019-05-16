@@ -5,7 +5,7 @@ Setup a work environment for the lessons provided in this workshop.  Ask the ins
 
 Today's URL for the CloudBees Core environment is https://cje.workshop.beedemo.net/.
 
-The URL for the GitHub Repository with these instructions and the exercises is **https://github.com/cloudbees-days/cloudbees-core-workshop**
+The URLs app for the GitHub Repository with these instructions and the exercises is **https://github.com/cloudbees-days/cloudbees-core-workshop**
 
 ### Create a Jenkins Account
 
